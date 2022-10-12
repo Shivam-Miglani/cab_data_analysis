@@ -1,4 +1,4 @@
-# Cab Spotting Data Challenge by PMI
+# Cab Spotting Data Challenge
 
 My solution lies in the `notebooks` folder. It contains 4 notebooks:
 
