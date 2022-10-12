@@ -1,5 +1,4 @@
-# Cab Spotting San Fransisco
-
+# Cab Spotting - CO2 Reduction Potential and Passenger Prediction
 The repo contains four notebooks:
 
 1. `00_EDA_preprocessing.ipynb`: The notebook states the business objectives and contains basic EDA and preprocessing of dataset.
@@ -20,7 +19,8 @@ The repo contains four notebooks:
       - time-based, location based and previous trip based features
    2. Very fast **hist gradient boosting model**, which can even be used for online training to do live predictions!
    3. Prediction example
-   ![images/pred_ex](images/pred_ex.png)
+      
+      ![images/pred_ex](images/pred_ex.png)
    4. MLOps demonstration
       - weights & biases dashboard with
 4. `03_cab_clusters.ipynb`: This notebook attempts to find cab clusters using ML and domain knowledge.
