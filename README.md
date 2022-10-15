@@ -1,4 +1,9 @@
 # Cab Spotting - CO2 Reduction Potential and Passenger Prediction
+
+### NbViewer Links:
+1. [EDA - Temporal Heatmaps](https://nbviewer.org/github/Shivam-Miglani/cabspotting_pmi/blob/main/notebooks/00_EDA_preprocessing.ipynb) | 2. [CO2 reduction](https://nbviewer.org/github/Shivam-Miglani/cab_data_analysis/blob/main/notebooks/01_CO2_reduction.ipynb) | 3. [Passenger Prediction](https://nbviewer.org/github/Shivam-Miglani/cab_data_analysis/blob/main/notebooks/02_passenger_prediction.ipynb) | 4. [Cab Clusters](https://nbviewer.org/github/Shivam-Miglani/cab_data_analysis/blob/main/notebooks/03_cab_clusters.ipynb)
+
+### Description
 The repo contains four notebooks:
 
 1. `00_EDA_preprocessing.ipynb`: The notebook states the business objectives and contains basic EDA and preprocessing of dataset.
